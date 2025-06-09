@@ -5,7 +5,8 @@ Welcome to the Geometallurgy in Practice short course repository. This platform 
 ## 📂 Repository Structure
 
 - `Prof L Auret/`: Materials and notebooks provided by Prof. L. Auret.
-- `Blockmodel/`: Datasets and resources shared across the course.
+- `C Koegelenberg/`: Datasets and resources for the 3D Block Model.
+- 'M May/':Spreadsheets for in class activity
 
 ## 📘 Getting Started
 
