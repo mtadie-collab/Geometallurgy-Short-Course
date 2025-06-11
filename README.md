@@ -30,9 +30,7 @@ The `clone-repo` file will guide you through the process of cloning the repo to 
 ### Checking your setup in Google Colab
 After you have cloned the repo to your Google Drive, we suggest you run the `test-setup` notebook to make sure everything is running correctly. 
 1. Go to your [Google Drive](https://drive.google.com/) and navigate to the Geometallurgy-Short-Course folder you've just cloned.
-2. Go to `/examples` and open the `test_setup` notebook
-3. Make sure to edit the path in the first cell of the notebook, as explained in the instructions.
-4. You should be able to run all cells in the notebook
-
+2. Open the `Geometallurgy-Short-Course.ipynb` notebook.
+3. You should be able to run this notebook.
 
 
